@@ -1,0 +1,1 @@
+# knex-json-schema
