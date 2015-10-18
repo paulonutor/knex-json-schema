@@ -1,1 +1,1 @@
-# knex-json-schema
+# xerum-schema
